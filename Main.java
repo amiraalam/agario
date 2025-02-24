@@ -6,7 +6,7 @@ import javafx.application.Application; // Required to launch JavaFX application
 import javafx.scene.Scene;             // Represents the scene (content area) of the stage
 import javafx.scene.layout.Pane;       // A layout node for arranging children in a scene
 import javafx.stage.Stage;             // Represents the main window (stage)
-import
+
 
 import java.util.Objects;
 
